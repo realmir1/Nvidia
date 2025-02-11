@@ -83,7 +83,10 @@ python gpu_info_app.py
 
 ---
 
-
+<div align="Center">
+  <img src="https://cdn.pixabay.com/animation/2024/09/23/11/22/11-22-19-259_512.gif" height="300" width="700" alt="numpy logo"  />
+ </div>
+ 
 ---
 
 ## 📩 **Iletisim & Katki**  
