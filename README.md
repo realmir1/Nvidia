@@ -32,6 +32,17 @@ Bu proje, NVIDIA grafik kartları hakkinda detayli bilgi veren bir CustomTkinter
 
 
 ---
+## Proje Arayüzü 
+
+| Arayüz  |Örnek |
+|---------|--------|
+| ![Heatmap](https://github.com/realmir1/Nvidia/blob/main/Ekran%20Resmi%202025-02-11%2014.05.48.png?raw=true) | ![GUI](https://github.com/realmir1/Nvidia/blob/main/Ekran%20Resmi%202025-02-11%2014.06.00.png?raw=true) |
+
+
+
+
+
+---
 
 ## 💾 **Kurulum & Kullanim**  
 
