@@ -4,7 +4,7 @@ Bu proje, NVIDIA grafik kartları hakkinda detayli bilgi veren bir CustomTkinter
 
 ---
 
-## 📌 **Ozellikler**  
+## 📌 **Özellikler**  
 
 🔹 **Gorsel Arayuz:** CustomTkinter kutuphanesi ile tasarlanmis sik ve kullanici dostu bir arayuz.  
 🔹 **GPU Secim Menusu:** Kullanicilar, NVIDIA’nin GTX ve RTX serisindeki populer ekran kartlarini bir acilir menuden secerek detaylari inceleyebilir.  
